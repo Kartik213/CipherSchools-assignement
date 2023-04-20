@@ -1,0 +1,9 @@
+.followers {
+    @media only screen and (max-width: 450px) {
+        display: none;
+    }
+
+    font-weight: 500;
+    color: #eee;
+    cursor: pointer;
+}

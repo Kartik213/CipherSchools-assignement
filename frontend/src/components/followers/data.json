@@ -1,0 +1,38 @@
+[
+  {
+    "followersCount": 5,
+    "profession": "College Student",
+    "img": "https://picsum.photos/200",
+    "name": "Rahul Jain"
+  },
+  {
+    "followersCount": 7,
+    "profession": "Student",
+    "img": "https://picsum.photos/300",
+    "name": "John Smith"
+  },
+  {
+    "followersCount": 19,
+    "profession": "Teacher",
+    "img": "https://picsum.photos/100",
+    "name": "Sara Lee"
+  },
+  {
+    "followersCount": 10,
+    "profession": "Teacher",
+    "img": "https://picsum.photos/201",
+    "name": "Alex Johnson"
+  },
+  {
+    "followersCount": 10,
+    "profession": "Teacher",
+    "img": "https://picsum.photos/201",
+    "name": "Alex Johnson"
+  },
+  {
+    "followersCount": 10,
+    "profession": "Teacher",
+    "img": "https://picsum.photos/201",
+    "name": "Alex Johnson"
+  }
+]
