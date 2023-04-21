@@ -1,4 +1,4 @@
-import Followers from "../components/user/Follower";
+import Followers from "../components/followers/Followers";
 import Navbar from "../components/navbar/Navbar";
 
 const Followerspage = () => {
